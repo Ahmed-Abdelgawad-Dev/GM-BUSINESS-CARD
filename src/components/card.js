@@ -14,8 +14,8 @@ function Card() {
             <div className="job-title">General Manager</div>
             <div className="website">Il Mercato Hotel, Aqua Park & Alley Shopping Promenade</div>
             <div className="buttons">
-                <button id="email"><img src={Mail} alt="mail"></img>Email</button>
-                <button id="linkedin"><img src={Linkedin} alt="linkedin"></img>LinkedIn</button>
+                {/* <button id="email"><img src={Mail} alt="mail"></img>Email</button>
+                <button id="linkedin"><img src={Linkedin} alt="linkedin"></img>LinkedIn</button> */}
             </div>
 
             <About />
