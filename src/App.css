@@ -127,28 +127,24 @@ body {
 
 /* ================================== */
 #linkedin {
-
     padding: 5px;
     margin: 5px;
     border: 1px solid white;
     border-radius: 5px;
     color: white;
-    /* Sets the default color to white */
     text-decoration: none;
-    /* Removes the underline (optional) */
 }
 
 a:visited {
     color: white;
-    /* Ensures the color stays white after being visited */
 }
 
 a:hover {
-    color: white;
-    /* Ensures the color stays white on hover */
+    color: #5093E2;
+    opacity: 0.7;
+    background-color: white;
 }
 
 a:active {
     color: white;
-    /* Ensures the color stays white when clicked */
 }
